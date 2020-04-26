@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background: #f5f5f5;
+}
+
+body{
+    font: 400 14px Roboto, san-serif;
+    /* background: #7f7979; */
+    -webkit-font-smoothing : antialiased;
+}
+
+
+input , button textarea{
+    font: 400 14px Roboto, san-serif;
+}
+
+button{
+    cursor: pointer;
+}
+
+img {
+    width: 50%;
+}
